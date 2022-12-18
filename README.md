@@ -9,7 +9,7 @@ Software Security
 **What issue did they want you to address?**
   In this particular simulation, Artemis Financial had assigned our firm, Global Rain, with a security check of their existing codebase including static vulnerability scans, encryption, and architectural review, resolution, and recommnedations.
   
-**What did you do very well when you found your client’s software security vulnerabilities? **
+**What did you do very well when you found your client’s software security vulnerabilities?**
   In this simulation I did a good job of applying SHA3 family of encryption and complying with international banking considerations. I identified applicable standards and areas in the architecture of the program where vulberabilities may exist. I also gave good overall guidance based on these and the static vulnerability scan to suppress and address future issues where appropriate. 
 
 **Why is it important to code securely?** 
